@@ -9,7 +9,7 @@ The code generates networks of varying Trophic Incoherence measures networks str
 
 The code is written in Julia and has a range of julia dependancies such as Graphs.jl and other common Julia packages. 
 
-Trophic Analysis only invovles solving a matrix equation and a simple calculation to get the incoherence so should be accesible to researcher in many fields who are not familair with julia or this particualr code which contains a lot of extra data.
+Trophic Analysis only invovles solving a matrix equation and a simple calculation to get the incoherence so should be accesible to researchers in many fields who are not familair with julia or this particualr code which contains a lot of extra data.
 
 I am happy to discuss with other researchers how to implent Trophic Analysis for yourself or questions about the subject. 
 
