@@ -3,7 +3,7 @@
 
 
 This code was used to generate the results of of the paper "Influence and Influenceability: Global Directionality in
-Directed Complex Networks" by Niall Rodgers, Peter Tiˇno and Samuel Johnson.
+Directed Complex Networks" by Niall Rodgers, Peter Tino and Samuel Johnson.
 
 The code generates networks of varying Trophic Incoherence, measures networks strcutural properties and does various dynamics. 
 
