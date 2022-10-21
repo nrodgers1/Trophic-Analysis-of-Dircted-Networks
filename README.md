@@ -1,4 +1,4 @@
-# Trophic-Analysis-of-Dircted-Networks
+# Trophic-Analysis-of-Directed-Networks
 
 
 
