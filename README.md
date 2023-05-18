@@ -13,7 +13,7 @@ Trophic Analysis only invovles solving a matrix equation and a simple calculatio
 
 I am happy to discuss with other researchers how to implent Trophic Analysis for yourself or questions about the subject. 
 
-The code was written with some time gaps so their may be issue related to either Julia Versions or Lightgraps versions. In particular there may be errors related to functions requetsing the adhacney matrix by either sparse or dense as required by the function. If you are using networks where the size is not an issue this can be solved by inserting a A= sparse(A) or A = matrix(A) before the line causing the error.
+The code was written with some time gaps so their may be issue related to either Julia Versions or Lightgraphs/Graphs  versions. In particular there may be errors related to functions requetsing the adhacney matrix by either sparse or dense as required by the function. If you are using networks where the size is not an issue this can be solved by inserting a A= sparse(A) or A = matrix(A) before the line causing the error. A parituclar example of this is the findnz function to find the non-zero entries of a matrix if there are errors related to this make sure the package is loaded for it and the matrix is sparse before it is used.
 
 My papers are https://scholar.google.com/citations?user=646U--wAAAAJ&hl=en
 
