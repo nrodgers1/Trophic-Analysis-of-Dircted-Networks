@@ -1,6 +1,6 @@
 # Trophic-Analysis-of-Directed-Networks
 
-
+[![DOI](https://zenodo.org/badge/543042141.svg)](https://zenodo.org/badge/latestdoi/543042141)
 
 This code was used to generate the results of of the paper "Influence and Influenceability: Global Directionality in
 Directed Complex Networks" by Niall Rodgers, Peter Tino and Samuel Johnson.
@@ -24,3 +24,6 @@ The other network data is an example newtwork used in the paper taken from https
 My papers are https://scholar.google.com/citations?user=646U--wAAAAJ&hl=en
 
 And contact details until 2024 are NXR081@student.bham.ac.uk 
+
+
+
